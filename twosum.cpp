@@ -1,5 +1,6 @@
 /*RESULTS
 Time: ~ 30 min
+DificultyR: easy
 Dificulty: Really easy
 TimeBeats: 31.6%
 MemoryBeats: 61.6
@@ -43,3 +44,6 @@ int main()
 
     return 0;
 }
+
+/* Take aways; - making searches in an unordered map is a lot faster, so try to do them there.
+               - Remove functions from the loop code .size() */
