@@ -1,9 +1,9 @@
 /*RESULTS
 Time: ~ 5 hours
 DificultyR: normal
-Dificulty: Hard
+Dificulty: Very Hard
 TimeBeats: 34.79%
-MemoryBeats: 73.07
+MemoryBeats: 73.07%
 */
 
 #include <vector>
