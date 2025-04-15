@@ -75,8 +75,8 @@ void test_take_away(string &s)
 
         // If only alphanums are used you can use this for a  SC - O(256)
         hash[s[i]] = i;
-        cout << s[i] << endl;
-        cout << hash[s[i]] << endl;
+        // cout << s[i] << endl;
+        // cout << hash[s[i]] << endl;
     }
 }
 
